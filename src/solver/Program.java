@@ -1,3 +1,11 @@
+/**
+ * License: creative commons 4.0, by-sa
+ * This program is distributed WITHOUT ANY WARRANTY; without even the implied 
+ * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * 
+ * @author maximilianstrauch
+ */
+
 package solver;
 
 import java.util.ArrayList;
