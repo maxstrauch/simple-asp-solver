@@ -1,8 +1,10 @@
 # Simple ASP solver
 
-This project is a very basic ASP (answer set programming) solver, developed during the AI lecture on summer 2015 at UniKo.
+This project is a very basic ASP (answer set programming) solver written in `Java` developed during the AI lecture on summer 2015 at UniKo.
 
 It takes a grounded logical program and computes the answer sets by simply calculating the powerset of the set of all head literals. And for each enty (e.g. state) of this powerset, the program tests if the minmal model of the reduct of the initial program is equal to the state. If so, a solution is found.
+
+The project is a `NetBeans 8` project and can be opened directly with `NetBeans`.
 
 # Example
 Consider the following example (from AI lecuture, slide 272, [1]):
